@@ -17,5 +17,5 @@ SmartContact is a simple C++ contact management system built using Object-Orient
 - C++ (File handling, OOP, STL)
 
 ## 👥 Project Team
-- Member 1: (Your Name)
-- Member 2: (Your Partner’s Name)
+- Member 1: (Gautam Kumar)
+- Member 2: (Harshita Andhiwal)
